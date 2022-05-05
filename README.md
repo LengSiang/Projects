@@ -1,4 +1,4 @@
-# Projects
+# projects
 A project site to conduct testing
 This is my project site and I am testing out webpages
 - Page 1
